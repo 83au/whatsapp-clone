@@ -1,5 +1,5 @@
-import Login from './Login'
 import useLocalStorage from '../hooks/useLocalStorage'
+import Login from './Login'
 import Dashboard from './Dashboard'
 import { ContactsProvider } from '../contexts/ContactsProvider'
 import { ConversationsProvider } from '../contexts/ConversationsProvider'
